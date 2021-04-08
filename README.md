@@ -14,7 +14,7 @@ Final work related with creation of Prototype for Audio and Video over Ethernet 
 Nowadays, that's already old school tech. 
 You could show it by this [W3C Media Capture and Streams Specification](http://w3c.github.io/mediacapture-main/).
 
-Some timeline about Audio and Video Streaming Software:
+Some samples of Audio and Video Streaming Software:
 - [Microsoft acquires Skype](https://news.microsoft.com/announcement/microsoft-acquires-skype/)
 - [société anonyme of the Skype](https://www.sec.gov/Archives/edgar/data/1498209/000119312511056174/ds1a.htm)
 ```
@@ -32,7 +32,7 @@ Technologies for Visual Rendering: CSS2, CSS3, SVG, WebGL.
 TODO.
 Build Lithuanian-English and English-Lithuanian versions of the Documentation
 
-Some Great working Examples of the similar Tech:
+Some similar Great Tech Tools out there:
 - [VirusTotal Graph Vizualisations](https://support.virustotal.com/hc/en-us/articles/360004620878-VirusTotal-Graph-home)
 - [Online interactive Risk Assessment at EU and the Member State levels](https://oiraproject.eu/oira-tools/eu/)
 
